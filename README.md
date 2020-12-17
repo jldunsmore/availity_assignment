@@ -8,4 +8,5 @@ This is the repository for the Homework Assignment I was given for an skill test
 Three tabs for the three programming assignments. The
 
 Imported the tab controls from https://www.npmjs.com/package/@bumaga/tabs
+Imported the csv parse from https://www.npmjs.com/package/react-papaparse
 
